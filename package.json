@@ -1,12 +1,13 @@
 {
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "epress": "^0.0.1-security"
+    "epress": "^0.0.1-security",
+    "express": "^4.18.1"
   },
   "name": "4th-assessment-backend",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
